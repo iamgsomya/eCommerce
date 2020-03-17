@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736105600148",
+    "firebase_url": "https://ecommerce-59a3e.firebaseio.com",
+    "project_id": "ecommerce-59a3e",
+    "storage_bucket": "ecommerce-59a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736105600148:android:91c9a09a48cad640b21081",
+        "android_client_info": {
+          "package_name": "com.example.medicine.eCommerce26"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736105600148-hnqucodvhd3tren7657rk6he12guqmjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicine.eCommerce26",
+            "certificate_hash": "f54c88b1924d752867634fec0abb11f55646a558"
+          }
+        },
+        {
+          "client_id": "736105600148-14754e0h7staq7nqojqt3jjqrq4q4h4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5BBYoPYhwSTLi-kJ1VGGClKPTHs0lgbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736105600148-14754e0h7staq7nqojqt3jjqrq4q4h4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
